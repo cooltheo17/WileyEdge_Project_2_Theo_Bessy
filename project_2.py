@@ -267,7 +267,7 @@ def runShop():
 
 # Print welcome screen and image
 print("\033[0;32m------------------------")
-print("Welcome to Bessy's Garden")
+print("Welcome to the Evil Garden")
 print("------------------------\033[0;0m")
 print(climage.convert('flower_3.png'))
 # Run login function
@@ -312,3 +312,4 @@ while True:
             break the loop and exit
 
 '''
+
